@@ -8,27 +8,29 @@ Une application web complète de commande de nourriture, construite avec **Sprin
 
 ## 🖼️ Aperçu
 
-![Online Food Ordering Screenshot](https://via.placeholder.com/800x400?text=Capture+d%27%C3%A9cran+de+l%27application)
+![Online Food Ordering Screenshot](./assets/screenshot.png)
 
 ---
 
 ## 🛠️ Stack Technique
 
 ### 💻 Frontend (React + Vite)
+
 - React.js
 - Vite.js
+- MUI
 - Axios
-- Bootstrap / Tailwind (selon ton choix)
+- Tailwind
 - React Router
 
 ### 🖥️ Backend (Spring Boot)
+
 - Spring Boot
 - Spring Security (authentification)
 - Spring Data JPA (base de données)
-- MySQL / PostgreSQL
+- MySQL
 - Maven
 
 ---
 
 ## 📦 Structure du projet
-
